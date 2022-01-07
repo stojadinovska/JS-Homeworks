@@ -27,7 +27,7 @@ console.log(tellStory(tellStoryArray));
 //Homework Part 2 
 console.log("Homework Part 2");
 
-let numberArray = [5, 14, 74, 145, 150];
+let numberArray = [5, 14, 74, 145, "150"];
 
 function calculateSum(arrayParameter) {
     let sumOfNumbers = 0;
